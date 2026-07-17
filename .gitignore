@@ -1,0 +1,16 @@
+# Папка сборки
+build/
+cmake-build-*/
+
+# Файлы IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vcxproj
+
+# Временные файлы
+*.tmp
+*.log
+*.out
